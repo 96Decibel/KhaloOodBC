@@ -2,7 +2,7 @@ const Discord = require("discord.js");
   const client = new Discord.Client();
     const clienttoken = "MzI3NzM2NTMyOTMwOTIwNDUw.DGmnLA.QFbtYXPzTAvZsoFW70wNLyVm3lE"
       client.on('ready', () => {
-        client.user.setGame(`❖ Virex For Ever ❖ | ❖ -bc ❖`,'https://www.twitch.tv/VForEver');
+        client.user.setGame(`❖ KhaloOod ❖ | ❖ -bc ❖`,'https://www.twitch.tv/VForEver');
           console.log('Im Ready!');
   
         });
